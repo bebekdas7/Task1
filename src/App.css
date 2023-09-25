@@ -1,0 +1,17 @@
+.card {
+  border: 1px solid black;
+  width: 23.9%;
+  height: 20rem;
+  margin: 2rem 0;
+}
+.card img {
+  height: 15rem;
+  object-fit: contain;
+}
+.detail {
+  border: 1px solid black;
+  padding: 0px;
+}
+.detail p {
+  margin: 0;
+}
